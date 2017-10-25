@@ -1,2 +1,2 @@
 # dcb-hackathon
-new new dcb
+#new dcb hackathon
